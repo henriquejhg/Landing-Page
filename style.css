@@ -1,0 +1,12 @@
+
+h1{
+    color: gold;
+    background-color: rgb(128, 28, 0);
+}
+h2{
+    color: gold;
+    background-color: rgb(61, 186, 7);
+}
+body{ background-color: hwb(89 0% 0%);}
+header{background-color: chartreuse;}
+footer{background-color: chartreuse;}
